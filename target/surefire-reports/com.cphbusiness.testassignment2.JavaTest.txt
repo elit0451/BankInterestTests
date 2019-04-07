@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.cphbusiness.testassignment2.JavaTest
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 2, Errors: 0, Skipped: 2, Time elapsed: 8.12 s <<< FAILURE! - in com.cphbusiness.testassignment2.JavaTest
+testEightDifferentAssertsWithSleep  Time elapsed: 8.052 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Timed out ==> execution exceeded timeout of 5000 ms by 3000 ms
+	at com.cphbusiness.testassignment2.JavaTest.testEightDifferentAssertsWithSleep(JavaTest.java:111)
+
+testEightDifferentAssertsWithLambda  Time elapsed: 0.006 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: This failed for sure. ==> expected: <true> but was: <false>
+	at com.cphbusiness.testassignment2.JavaTest.testEightDifferentAssertsWithLambda(JavaTest.java:138)
+
