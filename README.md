@@ -1,6 +1,6 @@
 # Bank Interest Rate Tests :bank:
 
-This repository contains a **Unit test assignment** implemented in Java <img src="https://cdn.iconscout.com/icon/free/png-256/java-43-569305.png" height="25" align="center"> using <img src="https://avatars3.githubusercontent.com/u/874086?s=400&v=4" height="35" align="center">, including a solution to the following bullet points:
+This repository contains a **Unit test assignment** implemented in Java <img src="./images/java.png" height="25" align="center"> using <img src="./images/junit.png" height="35" align="center">, including a solution to the following bullet points:
 
 <br/>
 
